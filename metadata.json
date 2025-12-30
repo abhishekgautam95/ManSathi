@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MannSathi: Your Mind's Companion",
+  "description": "An ethics-first mental health ecosystem for India. Connecting you anonymously with licensed psychologists and providing AI-driven emotional support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
